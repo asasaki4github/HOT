@@ -1,0 +1,4 @@
+HOT
+===
+
+Heat Orchestration Template
